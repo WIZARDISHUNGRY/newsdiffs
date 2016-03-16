@@ -9,10 +9,7 @@
 
 parsers = """
 nyt.NYTParser
-cnn.CNNParser
-politico.PoliticoParser
-bbc.BBCParser
-washpo.WashPoParser
+thump.ThumpParser
 """.split()
 
 parser_dict = {}
